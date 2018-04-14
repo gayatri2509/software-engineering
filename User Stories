@@ -1,0 +1,19 @@
+As a student, I want to see my total scores so that I know my performance level.
+ 
+As a student, I want to select the assumptions so that I can choose the model that best fits my assumption.
+ 
+As a student, I want to see the correct result after I submit so that I can verify my result.
+ 
+As a student, I want to see a list of reasons for the incorrect assumption so that I can choose the correct reason which will increase my score.
+ 
+As an instructor, I want to add new real world situations so that I can give more practice to students.
+ 
+As an instructor, I want to access the scoring system so that I can modify the score associated with each real world situation based on its difficulty.
+ 
+As an instructor, I want to modify the input so that I can change the difficulty level of the real world situation.
+ 
+As an instructor, I want to see the final test result of the submission for the class so that I can assess the class performance.(Backlog)
+ 
+As an instructor, I want to login so that I can have access to the questionnaire. (Backlog)
+ 
+As a student, I want to login so that I can access the questionnaire. (Backlog)
