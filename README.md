@@ -4,7 +4,7 @@ The goal is to have a complete tutorial system to help students gain the intuiti
 real world situation using idealized models.
 
 
-Technology used: JavaFx.
+Technology used: Java, JavaFx.
 
 
 Project Description: This specifies the basic requirements of the project. <br />
